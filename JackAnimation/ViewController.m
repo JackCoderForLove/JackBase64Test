@@ -21,6 +21,7 @@
     [super viewDidLoad];
     //测试一下子把
     //哗啦啦啦
+    //飞一边
     //调用动画
     [self jackAnimation];
     //调用加密解密示例
